@@ -1413,5 +1413,15 @@
     "asset": 1578626029542,
     "meta": 1594024642751,
     "relativePath": "script/Utils/Wall.js"
+  },
+  "26f7d988-48e4-410e-a4bb-a85108a32c7f": {
+    "asset": 1594028700115,
+    "meta": 1594028700119,
+    "relativePath": "scene/hitSet.fire"
+  },
+  "96c9ce13-1e47-49b6-8519-d637816a7c5b": {
+    "asset": 1594029759778,
+    "meta": 1594031957287,
+    "relativePath": "script/hitSet.js"
   }
 }
