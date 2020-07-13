@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/script/Utils/SimpleMotion":2,"./assets/script/Utils/PlatformMotion":3,"./assets/script/hitSet":5,"./assets/script/ColliderListener":1,"./assets/script/Utils/Wall":4},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/script/ColliderListener.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/SimpleMotion.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/PlatformMotion.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/Wall.js"},{"deps":{},"path":"preview-scripts/assets/script/hitSet.js"}];
+var scripts = [{"deps":{"./assets/script/hitSet":1,"./assets/script/Utils/PlatformMotion":2,"./assets/script/Utils/SimpleMotion":3,"./assets/script/Utils/Wall":4,"./assets/script/Utils/ColliderListener":6,"./assets/script/follow":5,"./assets/script/heroControl":7},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/script/hitSet.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/PlatformMotion.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/SimpleMotion.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/Wall.js"},{"deps":{},"path":"preview-scripts/assets/script/follow.js"},{"deps":{},"path":"preview-scripts/assets/script/Utils/ColliderListener.js"},{"deps":{},"path":"preview-scripts/assets/script/heroControl.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 var bundleScript = 'preview-scripts/__qc_bundle__.js';
 
